@@ -1,0 +1,30 @@
+body {
+    margin-top: 20px;
+    margin-left: 373px;
+    margin-right: 413px;
+    margin-bottom: 109px;
+}
+
+.display {
+    text-align: center;
+    font-size: 3rem;
+    height: 60px;
+}
+
+/* .container {
+    display: flex;
+    width: 100%;
+} */
+
+.subcontainer {
+    display: flex;
+    width: 100%;
+    margin-top: 1cm;
+    margin-left: 1cm;
+    margin-right: 1cm;
+    margin-bottom: 1cm;
+}
+
+.subcontainer button {
+    margin-left: 72px;
+}
